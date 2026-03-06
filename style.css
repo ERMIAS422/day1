@@ -1,6 +1,6 @@
 body {
   background-image: url(1.jpg);
-  
+  color: #fff;
 }
 
 div {
@@ -12,12 +12,13 @@ div {
   backdrop-filter: blur(10px);
   padding: 90px;
   padding-bottom: 200px;
-  
+  border-radius: 26px;
 }
 
 button {
   padding: 10px;
   color: #fff;
   background-color: blue;
-  
+  border-radius: 10px;
+  border-color: blue;
 }
